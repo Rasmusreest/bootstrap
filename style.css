@@ -1,0 +1,15 @@
+.text-primary {
+  color: teal !important;
+}
+
+.bg-primary {
+  background-color: teal !important;
+}
+
+.btn-primary {
+  background-color: teal !important;
+  border-color: teal !important;
+}
+
+.border-primary {
+}
